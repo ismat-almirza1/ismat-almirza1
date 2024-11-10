@@ -19,7 +19,7 @@
 
 - ?
 - ?
-- Currently learning Java development by self
+- Hal-hazırda Java 
 - Personal website [link](https://www.ismat.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
